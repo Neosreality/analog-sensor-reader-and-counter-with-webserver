@@ -1,8 +1,8 @@
 #include <WiFi.h>
 #include <WebServer.h>
 
-const char* ssid = "TPS RnD RTLS";
-const char* password = "2024**TPS";
+const char* ssid = "SSID";
+const char* password = "Password";
 
 WebServer server(80);
 
